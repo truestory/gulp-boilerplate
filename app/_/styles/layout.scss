@@ -1,0 +1,42 @@
+
+/* ----------------
+** BIG SCREENS
+** @media screen and (min-width: 980px)
+** ----------------
+*/
+
+@media screen and (min-width: 980px) {
+	
+	body {
+		min-width: 980px;
+	}
+
+}
+
+
+/* ----------------
+** TABLES
+** @media screen and (max-width: 979px)
+** ----------------
+*/
+
+@media screen and (max-width: 979px) {
+	
+	body {
+		width: 100%;
+		min-width: 100%;
+		padding: 0;
+	}
+}
+
+/* ----------------
+** SMARTPHONES
+** @media screen and (max-width: 767px)
+** ----------------
+*/
+
+@media screen and (max-width: 767px) {
+
+}
+
+

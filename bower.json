@@ -1,0 +1,17 @@
+/*
+**  Autor: True Story
+**  Copyright: True Story
+**  More info: hello@truestory.io
+*/
+
+{
+  "name": "True Story",
+  "private": true,
+  "dependencies": {
+    "modernizr": "latest",
+    "jquery": "2.0.3",
+    "Class-js": "0.5.1",
+    "normalize-scss": "latest",
+  },
+  "devDependencies": {}
+}
