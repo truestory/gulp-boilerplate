@@ -40,4 +40,4 @@ run <code>gulp watch</code> to start the auto update and refresh functions.
 
 ## Credits
 
-Made by True Story [(www.truestory.io)](www.truestory.io).
+Made by True Story [(www.truestory.io)](http://www.truestory.io).
